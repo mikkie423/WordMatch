@@ -1,0 +1,9 @@
+# ninja log v5
+2	971	6889575681253634	WordMatch_autogen/timestamp	c26440679cedab91
+2	971	6889575681253634	WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
+2	971	6889575681253634	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/timestamp	c26440679cedab91
+2	971	6889575681253634	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
+972	3049	6889575704018378	CMakeFiles/WordMatch.dir/main.cpp.obj	adfad340bb6c22a3
+975	3095	6889575704436830	CMakeFiles/WordMatch.dir/WordMatch_autogen/mocs_compilation.cpp.obj	8b39330f0fd1e317
+977	3123	6889575704715552	CMakeFiles/WordMatch.dir/mainwindow.cpp.obj	87481d6b21f81e58
+3123	3332	6889575706716096	WordMatch.exe	734ae632b8a6e4c8

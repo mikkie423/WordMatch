@@ -272,82 +272,24 @@ WordMatch_autogen/timestamp: \
   C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake \
   C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake \
   C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessTargets.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeCXXCompiler.cmake.in \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeCXXInformation.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeCompilerIdDetection.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeDetermineCXXCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeDetermineCompileFeatures.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeDetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeDetermineCompilerABI.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeDetermineCompilerId.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeDetermineRCCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeDetermineSystem.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeFindBinUtils.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeFindDependencyMacro.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeGenericSystem.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeNinjaFindMake.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeParseArguments.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeParseImplicitIncludeInfo.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeParseImplicitLinkInfo.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeParseLibraryArchitecture.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeRCCompiler.cmake.in \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeRCInformation.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeSystem.cmake.in \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeTestCXXCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeTestCompilerCommon.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeTestRCCompiler.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CheckCXXCompilerFlag.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CheckCXXSourceCompiles.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CheckIncludeFile.cxx.in \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CheckIncludeFileCXX.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CheckLibraryExists.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/Borland-DetermineCompiler.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/Clang-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/Cray-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/GHS-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/GNU-CXX.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/GNU-FindBinUtils.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/GNU.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/IAR-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/Intel-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/MSVC-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/PGI-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/SCO-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/TI-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/FindPackageMessage.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/FindThreads.cmake \
@@ -356,8 +298,6 @@ WordMatch_autogen/timestamp: \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Internal/CheckCompilerFlag.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Internal/CheckFlagCommonConfig.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Internal/CheckSourceCompiles.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Internal/FeatureTesting.cmake \
-  C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Platform/Windows-Determine-CXX.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX-ABI.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Platform/Windows-GNU-CXX.cmake \
   C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/Platform/Windows-GNU.cmake \
@@ -583,9 +523,12 @@ WordMatch_autogen/timestamp: \
   C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/main.cpp \
   C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/mainwindow.cpp \
   C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/mainwindow.h \
+  C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/secondwindow.cpp \
+  C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/secondwindow.h \
   CMakeFiles/3.23.2/CMakeCXXCompiler.cmake \
   CMakeFiles/3.23.2/CMakeRCCompiler.cmake \
   CMakeFiles/3.23.2/CMakeSystem.cmake \
   WordMatch_autogen/moc_predefs.h \
   C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/mainwindow.ui \
+  C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/secondwindow.ui \
   C:/Qt/Tools/CMake_64/bin/cmake.exe

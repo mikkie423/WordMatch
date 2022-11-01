@@ -2,6 +2,8 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+//#include "secondform.h" // needed for second form stored on heap
+#include "secondwindow.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
@@ -15,7 +17,12 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+private slots:
+    void on_pushButton_clicked();
+
 private:
     Ui::MainWindow *ui;
+   // SecondForm *secForm; // form stored on heap
+    SecondWindow *secWin;
 };
 #endif // MAINWINDOW_H

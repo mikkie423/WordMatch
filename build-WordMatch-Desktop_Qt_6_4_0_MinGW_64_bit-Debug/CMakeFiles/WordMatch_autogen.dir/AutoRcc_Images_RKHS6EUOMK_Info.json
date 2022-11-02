@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch",
+	"CMAKE_SOURCE_DIR" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch",
+	"INCLUDE_DIR" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/Resources/Images/icons8-plus-48.png",
+		"C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/Resources/Images/icons8-menu-90.png",
+		"C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/Resources/Images/icons8-menu-30.png",
+		"C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/Resources/Images/icons8-users-settings-48-YELLOW.png",
+		"C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/Resources/Images/icons8-menu-60.png",
+		"C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/Resources/Images/icons8-users-settings-48-WHITE.png",
+		"C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/Resources/Images/icons8-definite-article-48-WHITE.png",
+		"C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/Resources/Images/icons8-search-32.png",
+		"C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/Resources/Images/icons8-definite-article-48-YELLOW.png"
+	],
+	"LOCK_FILE" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/WordMatch_autogen.dir/AutoRcc_Images_RKHS6EUOMK_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Images" ],
+	"OUTPUT_CHECKSUM" : "RKHS6EUOMK",
+	"OUTPUT_NAME" : "qrc_Images.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/WordMatch_autogen.dir/AutoRcc_Images_RKHS6EUOMK_Used.txt",
+	"SOURCE" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/Resources/Images/Images.qrc",
+	"VERBOSITY" : 0
+}

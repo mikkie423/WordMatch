@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="menu-30">icons8-menu-30.png</file>
+        <file alias="menu-60">icons8-menu-60.png</file>
+        <file alias="menu-90">icons8-menu-90.png</file>
+        <file alias="userSettingsWHITE">icons8-users-settings-48-WHITE.png</file>
+        <file alias="userSettingsYELLOW">icons8-users-settings-48-YELLOW.png</file>
+        <file alias="wordManagerWHITE">icons8-definite-article-48-WHITE.png</file>
+        <file alias="wordManagerYELLOW">icons8-definite-article-48-YELLOW.png</file>
+        <file alias="plusYELLOW">icons8-plus-48.png</file>
+        <file alias="search">icons8-search-32.png</file>
+    </qresource>
+</RCC>

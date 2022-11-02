@@ -1168,6 +1168,9 @@
 		{
 			"isExternal" : true,
 			"path" : "C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginAdditionalTargetInfo.cmake"
+		},
+		{
+			"path" : "Resources/Images/Images.qrc"
 		}
 	],
 	"kind" : "cmakeFiles",

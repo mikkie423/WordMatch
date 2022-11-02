@@ -22,12 +22,22 @@ void MainWindow::on_pushButton_clicked()
 //     secForm.setModal(true);
 //     secForm.exec();
 
-    hide(); // hides the first window
+   //hide(); // hides the first window
 // Stored on the Heap (Pop up window with both windows maneuverable)
    // secForm = new SecondForm(this);
    // secForm->show();
 
     secWin = new SecondWindow(this);
     secWin->show();
+
+}
+
+
+void MainWindow::on_adminDashboardPushButton_clicked()
+{
+    adminDialog = new AdminDialog(this);
+    adminDialog->show();
+    adminDialog->setWindowState(Qt::WindowFullScreen );
+    //adminDialog->showMaximized();
 }
 

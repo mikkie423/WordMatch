@@ -107,7 +107,9 @@ WordMatch_autogen/timestamp: \
 	C:/Qt/6.4.0/mingw_64/include/QtGui/qtransform.h \
 	C:/Qt/6.4.0/mingw_64/include/QtGui/qwindowdefs.h \
 	C:/Qt/6.4.0/mingw_64/include/QtGui/qwindowdefs_win.h \
+	C:/Qt/6.4.0/mingw_64/include/QtWidgets/QDialog \
 	C:/Qt/6.4.0/mingw_64/include/QtWidgets/QMainWindow \
+	C:/Qt/6.4.0/mingw_64/include/QtWidgets/qdialog.h \
 	C:/Qt/6.4.0/mingw_64/include/QtWidgets/qmainwindow.h \
 	C:/Qt/6.4.0/mingw_64/include/QtWidgets/qsizepolicy.h \
 	C:/Qt/6.4.0/mingw_64/include/QtWidgets/qtabwidget.h \
@@ -520,6 +522,9 @@ WordMatch_autogen/timestamp: \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
 	C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h \
 	C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/CMakeLists.txt \
+	C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/Resources/Images/Images.qrc \
+	C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/admindialog.cpp \
+	C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/admindialog.h \
 	C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/main.cpp \
 	C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/mainwindow.cpp \
 	C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/mainwindow.h \
@@ -529,6 +534,7 @@ WordMatch_autogen/timestamp: \
 	C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake \
 	C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/3.23.2/CMakeSystem.cmake \
 	C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/moc_predefs.h \
+	C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/admindialog.ui \
 	C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/mainwindow.ui \
 	C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/secondwindow.ui \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe

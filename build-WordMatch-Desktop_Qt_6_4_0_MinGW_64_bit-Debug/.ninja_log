@@ -1,21 +1,54 @@
 # ninja log v5
-6	234	6889695116209074	WordMatch_autogen/timestamp	c26440679cedab91
-6	234	6889695116209074	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/timestamp	c26440679cedab91
-6	234	6889695116209074	WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
-6	234	6889695116209074	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
-668	2665	6889694252021014	CMakeFiles/WordMatch.dir/main.cpp.obj	adfad340bb6c22a3
-670	2533	6889694250624252	CMakeFiles/WordMatch.dir/WordMatch_autogen/mocs_compilation.cpp.obj	8b39330f0fd1e317
-245	2151	6889695135351714	CMakeFiles/WordMatch.dir/mainwindow.cpp.obj	87481d6b21f81e58
-2151	2321	6889695137036174	WordMatch.exe	d1c13db5cbaa8d11
+6	251	6890738695923954	WordMatch_autogen/timestamp	c26440679cedab91
+6	251	6890738695923954	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/timestamp	c26440679cedab91
+6	251	6890738695923954	WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
+6	251	6890738695923954	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
+291	2336	6890688784925866	CMakeFiles/WordMatch.dir/main.cpp.obj	adfad340bb6c22a3
+785	3076	6890603570278375	CMakeFiles/WordMatch.dir/WordMatch_autogen/mocs_compilation.cpp.obj	8b39330f0fd1e317
+265	1976	6890738713163818	CMakeFiles/WordMatch.dir/secondwindow.cpp.obj	4262ed36bcbfdf74
+261	1944	6890738712816669	CMakeFiles/WordMatch.dir/mainwindow.cpp.obj	87481d6b21f81e58
+2157	2365	6890738716919696	WordMatch.exe	ecbbe9762e59b97
 0	19	0	CMakeFiles/clean.additional	baedbe210acaa455
 19	26	0	clean	577b940aee94fbd7
 247	2124	6889695135121493	CMakeFiles/WordMatch.dir/secondform.cpp.obj	e9cfea2992988f30
-7	692	6889697446069481	WordMatch_autogen/timestamp	c26440679cedab91
-7	692	6889697446069481	WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
-7	692	6889697446069481	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/timestamp	c26440679cedab91
-7	692	6889697446069481	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
-694	2421	6889697464833750	CMakeFiles/WordMatch.dir/WordMatch_autogen/mocs_compilation.cpp.obj	8b39330f0fd1e317
-692	2426	6889697464989801	CMakeFiles/WordMatch.dir/main.cpp.obj	adfad340bb6c22a3
-698	2486	6889697465536292	CMakeFiles/WordMatch.dir/secondwindow.cpp.obj	4262ed36bcbfdf74
-696	2506	6889697465643822	CMakeFiles/WordMatch.dir/mainwindow.cpp.obj	87481d6b21f81e58
-2506	2676	6889697467432651	WordMatch.exe	df5caa1cc4bd33c5
+328	2448	6890572711660791	CMakeFiles/WordMatch.dir/adminwindow.cpp.obj	b7b210ad5e5c0dcf
+263	2157	6890738714879753	CMakeFiles/WordMatch.dir/admindialog.cpp.obj	51c4903fd2464cd0
+4	633	6890747329738907	build.ninja	754884eb89f78114
+267	305	6890728005423405	WordMatch_autogen/RKHS6EUOMK/qrc_Images.cpp	fd3948d016a3b6ec
+267	305	6890728005423405	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/RKHS6EUOMK/qrc_Images.cpp	fd3948d016a3b6ec
+311	360	6890728005981566	CMakeFiles/WordMatch.dir/WordMatch_autogen/RKHS6EUOMK/qrc_Images.cpp.obj	3695a238c50b4a5
+6	253	6890752017495264	WordMatch_autogen/timestamp	c26440679cedab91
+6	253	6890752017495264	WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
+6	253	6890752017495264	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/timestamp	c26440679cedab91
+6	253	6890752017495264	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
+263	302	6890752018070864	WordMatch_autogen/RKHS6EUOMK/qrc_Images.cpp	fd3948d016a3b6ec
+263	302	6890752018070864	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/RKHS6EUOMK/qrc_Images.cpp	fd3948d016a3b6ec
+308	358	6890752018639955	CMakeFiles/WordMatch.dir/WordMatch_autogen/RKHS6EUOMK/qrc_Images.cpp.obj	3695a238c50b4a5
+303	1904	6890752034016607	CMakeFiles/WordMatch.dir/mainwindow.cpp.obj	87481d6b21f81e58
+304	1942	6890752034435529	CMakeFiles/WordMatch.dir/secondwindow.cpp.obj	4262ed36bcbfdf74
+306	2268	6890752037694006	CMakeFiles/WordMatch.dir/admindialog.cpp.obj	51c4903fd2464cd0
+2269	2479	6890752039701452	WordMatch.exe	ecbbe9762e59b97
+7	245	6890753620196804	WordMatch_autogen/timestamp	c26440679cedab91
+7	245	6890753620196804	WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
+7	245	6890753620196804	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/timestamp	c26440679cedab91
+7	245	6890753620196804	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
+259	1846	6890753636185339	CMakeFiles/WordMatch.dir/mainwindow.cpp.obj	87481d6b21f81e58
+257	1883	6890753636606371	CMakeFiles/WordMatch.dir/secondwindow.cpp.obj	4262ed36bcbfdf74
+255	2159	6890753639381983	CMakeFiles/WordMatch.dir/admindialog.cpp.obj	51c4903fd2464cd0
+2160	2370	6890753641371980	WordMatch.exe	ecbbe9762e59b97
+6	249	6890754271459606	WordMatch_autogen/timestamp	c26440679cedab91
+6	249	6890754271459606	WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
+6	249	6890754271459606	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/timestamp	c26440679cedab91
+6	249	6890754271459606	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
+260	1883	6890754287817883	CMakeFiles/WordMatch.dir/secondwindow.cpp.obj	4262ed36bcbfdf74
+264	1933	6890754288362723	CMakeFiles/WordMatch.dir/mainwindow.cpp.obj	87481d6b21f81e58
+262	2290	6890754291806445	CMakeFiles/WordMatch.dir/admindialog.cpp.obj	51c4903fd2464cd0
+2291	2496	6890754293837528	WordMatch.exe	ecbbe9762e59b97
+6	247	6890755168985695	WordMatch_autogen/timestamp	c26440679cedab91
+6	247	6890755168985695	WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
+6	247	6890755168985695	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/timestamp	c26440679cedab91
+6	247	6890755168985695	C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/mocs_compilation.cpp	c26440679cedab91
+257	1895	6890755185449230	CMakeFiles/WordMatch.dir/mainwindow.cpp.obj	87481d6b21f81e58
+259	1914	6890755185557226	CMakeFiles/WordMatch.dir/secondwindow.cpp.obj	4262ed36bcbfdf74
+261	2239	6890755188829531	CMakeFiles/WordMatch.dir/admindialog.cpp.obj	51c4903fd2464cd0
+2240	2448	6890755190949125	WordMatch.exe	ecbbe9762e59b97

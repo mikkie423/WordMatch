@@ -24,6 +24,7 @@ class Ui_MainWindow
 public:
     QWidget *centralwidget;
     QPushButton *pushButton;
+    QPushButton *adminDashboardPushButton;
     QMenuBar *menubar;
     QStatusBar *statusbar;
 
@@ -31,16 +32,19 @@ public:
     {
         if (MainWindow->objectName().isEmpty())
             MainWindow->setObjectName("MainWindow");
-        MainWindow->resize(800, 600);
+        MainWindow->resize(1440, 1024);
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName("centralwidget");
         pushButton = new QPushButton(centralwidget);
         pushButton->setObjectName("pushButton");
-        pushButton->setGeometry(QRect(230, 220, 171, 71));
+        pushButton->setGeometry(QRect(270, 80, 171, 71));
+        adminDashboardPushButton = new QPushButton(centralwidget);
+        adminDashboardPushButton->setObjectName("adminDashboardPushButton");
+        adminDashboardPushButton->setGeometry(QRect(290, 210, 121, 24));
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName("menubar");
-        menubar->setGeometry(QRect(0, 0, 800, 21));
+        menubar->setGeometry(QRect(0, 0, 1440, 21));
         MainWindow->setMenuBar(menubar);
         statusbar = new QStatusBar(MainWindow);
         statusbar->setObjectName("statusbar");
@@ -53,8 +57,9 @@ public:
 
     void retranslateUi(QMainWindow *MainWindow)
     {
-        MainWindow->setWindowTitle(QCoreApplication::translate("MainWindow", "MainWindow", nullptr));
+        MainWindow->setWindowTitle(QCoreApplication::translate("MainWindow", "Word Match ", nullptr));
         pushButton->setText(QCoreApplication::translate("MainWindow", "Open Second Dialog", nullptr));
+        adminDashboardPushButton->setText(QCoreApplication::translate("MainWindow", "Admin Dashboard", nullptr));
     } // retranslateUi
 
 };

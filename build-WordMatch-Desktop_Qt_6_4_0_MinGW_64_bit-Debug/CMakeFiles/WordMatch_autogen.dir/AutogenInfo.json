@@ -278,13 +278,20 @@
 		"C:/Qt/Tools/CMake_64/share/cmake-3.23/Modules/CMakeFindDependencyMacro.cmake",
 		"C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets.cmake",
 		"C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets-relwithdebinfo.cmake",
-		"C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginAdditionalTargetInfo.cmake"
+		"C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginAdditionalTargetInfo.cmake",
+		"C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/Resources/Images/Images.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch",
 	"DEP_FILE" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "WordMatch_autogen/timestamp",
 	"HEADERS" : 
 	[
+		[
+			"C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/admindialog.h",
+			"MU",
+			"EWIEGA46WW/moc_admindialog.cpp",
+			null
+		],
 		[
 			"C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/mainwindow.h",
 			"MU",
@@ -369,6 +376,11 @@
 	"SETTINGS_FILE" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/WordMatch_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/admindialog.cpp",
+			"MU",
+			null
+		],
 		[
 			"C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/main.cpp",
 			"MU",

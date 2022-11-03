@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-5678f5ad1830ff682f9a.json",
+					"jsonFile" : "directory-.-Debug-3e440814514cccd4af0a.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "WordMatch::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-WordMatch-Debug-f241550b7d3002a8b7a6.json",
+					"jsonFile" : "target-WordMatch-Debug-847258c7f0fab0f8634c.json",
 					"name" : "WordMatch",
 					"projectIndex" : 0
 				},

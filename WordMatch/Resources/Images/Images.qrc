@@ -9,5 +9,6 @@
         <file alias="wordManagerYELLOW">icons8-definite-article-48-YELLOW.png</file>
         <file alias="plusYELLOW">icons8-plus-48.png</file>
         <file alias="search">icons8-search-32.png</file>
+        <file alias="requests">requests.png</file>
     </qresource>
 </RCC>

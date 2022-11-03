@@ -11,9 +11,11 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
+#include <QtWidgets/QGridLayout>
 #include <QtWidgets/QMainWindow>
 #include <QtWidgets/QMenuBar>
 #include <QtWidgets/QPushButton>
+#include <QtWidgets/QSpacerItem>
 #include <QtWidgets/QStatusBar>
 #include <QtWidgets/QWidget>
 
@@ -23,8 +25,11 @@ class Ui_MainWindow
 {
 public:
     QWidget *centralwidget;
+    QGridLayout *gridLayout;
+    QSpacerItem *horizontalSpacer;
     QPushButton *pushButton;
     QPushButton *adminDashboardPushButton;
+    QSpacerItem *horizontalSpacer_2;
     QMenuBar *menubar;
     QStatusBar *statusbar;
 
@@ -32,19 +37,37 @@ public:
     {
         if (MainWindow->objectName().isEmpty())
             MainWindow->setObjectName("MainWindow");
-        MainWindow->resize(1440, 1024);
+        MainWindow->resize(454, 342);
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName("centralwidget");
+        gridLayout = new QGridLayout(centralwidget);
+        gridLayout->setObjectName("gridLayout");
+        horizontalSpacer = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        gridLayout->addItem(horizontalSpacer, 0, 0, 1, 1);
+
         pushButton = new QPushButton(centralwidget);
         pushButton->setObjectName("pushButton");
-        pushButton->setGeometry(QRect(270, 80, 171, 71));
+
+        gridLayout->addWidget(pushButton, 0, 1, 1, 1);
+
         adminDashboardPushButton = new QPushButton(centralwidget);
         adminDashboardPushButton->setObjectName("adminDashboardPushButton");
-        adminDashboardPushButton->setGeometry(QRect(290, 210, 121, 24));
+        QFont font;
+        font.setPointSize(12);
+        adminDashboardPushButton->setFont(font);
+        adminDashboardPushButton->setStyleSheet(QString::fromUtf8("padding: 10px"));
+
+        gridLayout->addWidget(adminDashboardPushButton, 1, 1, 1, 1);
+
+        horizontalSpacer_2 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        gridLayout->addItem(horizontalSpacer_2, 0, 2, 1, 1);
+
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName("menubar");
-        menubar->setGeometry(QRect(0, 0, 1440, 21));
+        menubar->setGeometry(QRect(0, 0, 454, 21));
         MainWindow->setMenuBar(menubar);
         statusbar = new QStatusBar(MainWindow);
         statusbar->setObjectName("statusbar");

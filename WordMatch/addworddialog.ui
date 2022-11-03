@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AddWordDialog</class>
+ <widget class="QDialog" name="AddWordDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Word Match || Add New Word</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: #2967D8;
+border-radius:15px;
+</string>
+  </property>
+  <widget class="QWidget" name="">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>9</y>
+     <width>401</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <spacer name="horizontalSpacer">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <property name="sizeHint" stdset="0">
+       <size>
+        <width>40</width>
+        <height>20</height>
+       </size>
+      </property>
+     </spacer>
+    </item>
+    <item>
+     <widget class="QLabel" name="label">
+      <property name="font">
+       <font>
+        <pointsize>16</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #2967D8;
+</string>
+      </property>
+      <property name="text">
+       <string>Add New Word</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <spacer name="horizontalSpacer_2">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <property name="sizeHint" stdset="0">
+       <size>
+        <width>40</width>
+        <height>20</height>
+       </size>
+      </property>
+     </spacer>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>260</y>
+     <width>212</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_4">
+    <property name="spacing">
+     <number>50</number>
+    </property>
+    <item>
+     <widget class="QPushButton" name="cancelWordPushButton">
+      <property name="font">
+       <font>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #ED145B;
+color: #FAD61E;
+border: 1px solid rgb(135, 12, 53);
+padding: 5px 10px;
+border-radius: 5px;
+font-weight: bold;</string>
+      </property>
+      <property name="text">
+       <string>CANCEL</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="addWordPushButton">
+      <property name="styleSheet">
+       <string notr="true">background-color: #71BF45;
+color: #FAD61E;
+border: 1px solid rgb(48, 81, 29);
+padding: 5px 10px;
+border-radius: 5px;
+font-weight: bold;</string>
+      </property>
+      <property name="text">
+       <string>ADD</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>90</y>
+     <width>272</width>
+     <height>142</height>
+    </rect>
+   </property>
+   <layout class="QFormLayout" name="formLayout">
+    <item row="0" column="0">
+     <widget class="QLabel" name="label_2">
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #2967D8;
+</string>
+      </property>
+      <property name="text">
+       <string>Word</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="1">
+     <widget class="QLineEdit" name="wordNameLineEdit">
+      <property name="styleSheet">
+       <string notr="true">padding: 5px 10px;
+border-radius: 5px;
+background-color: white;
+</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="QLabel" name="label_3">
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #2967D8;
+</string>
+      </property>
+      <property name="text">
+       <string>Spelling List</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="1">
+     <widget class="QComboBox" name="spellingListComboBox">
+      <property name="styleSheet">
+       <string notr="true">background-color:white;
+border-radius: 5px;
+padding: 5px 10px;</string>
+      </property>
+      <item>
+       <property name="text">
+        <string>Spelling List 1</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Spelling List 2</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Spelling List 3</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Spelling List 4</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Spelling List 5</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Spelling List 6</string>
+       </property>
+      </item>
+      <item>
+       <property name="text">
+        <string>Spelling List 7</string>
+       </property>
+      </item>
+     </widget>
+    </item>
+    <item row="2" column="0">
+     <widget class="QLabel" name="label_4">
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #2967D8;
+</string>
+      </property>
+      <property name="text">
+       <string>Image Upload</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="1">
+     <layout class="QHBoxLayout" name="horizontalLayout_2">
+      <property name="spacing">
+       <number>0</number>
+      </property>
+      <item>
+       <widget class="QLineEdit" name="imageUploadLineEdit">
+        <property name="styleSheet">
+         <string notr="true">padding: 5px 10px;
+border-top-left-radius: 5px;
+border-bottom-left-radius: 5px;
+background-color: white;
+</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="imageUploadPushButton">
+        <property name="styleSheet">
+         <string notr="true">background-color: #FF6100;
+color: #FAD61E;
+border: 1px solid rgb(115, 42, 0);
+padding: 5px 10px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+font-weight: bold;</string>
+        </property>
+        <property name="text">
+         <string>BROWSE</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item row="3" column="0">
+     <widget class="QLabel" name="label_5">
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: #2967D8;
+</string>
+      </property>
+      <property name="text">
+       <string>Audio Upload</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="1">
+     <layout class="QHBoxLayout" name="horizontalLayout_3">
+      <property name="spacing">
+       <number>0</number>
+      </property>
+      <item>
+       <widget class="QLineEdit" name="audioUploadLineEdit">
+        <property name="styleSheet">
+         <string notr="true">padding: 5px 10px;
+border-top-left-radius: 5px;
+border-bottom-left-radius: 5px;
+background-color:white;
+</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="audioUploadPushButton">
+        <property name="styleSheet">
+         <string notr="true">background-color: #FF6100;
+color: #FAD61E;
+border: 1px solid rgb(115, 42, 0);
+padding: 5px 10px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+font-weight: bold;</string>
+        </property>
+        <property name="text">
+         <string>BROWSE</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

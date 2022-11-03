@@ -26,11 +26,12 @@ QT_WARNING_PUSH
 QT_WARNING_DISABLE_DEPRECATED
 namespace {
 struct qt_meta_stringdata_AdminDialog_t {
-    uint offsetsAndSizes[8];
+    uint offsetsAndSizes[10];
     char stringdata0[12];
     char stringdata1[30];
     char stringdata2[1];
     char stringdata3[6];
+    char stringdata4[29];
 };
 #define QT_MOC_LITERAL(ofs, len) \
     uint(sizeof(qt_meta_stringdata_AdminDialog_t::offsetsAndSizes) + ofs), len 
@@ -39,12 +40,14 @@ Q_CONSTINIT static const qt_meta_stringdata_AdminDialog_t qt_meta_stringdata_Adm
         QT_MOC_LITERAL(0, 11),  // "AdminDialog"
         QT_MOC_LITERAL(12, 29),  // "on_userMenuComboBox_activated"
         QT_MOC_LITERAL(42, 0),  // ""
-        QT_MOC_LITERAL(43, 5)   // "index"
+        QT_MOC_LITERAL(43, 5),  // "index"
+        QT_MOC_LITERAL(49, 28)   // "on_addWordPushButton_clicked"
     },
     "AdminDialog",
     "on_userMenuComboBox_activated",
     "",
-    "index"
+    "index",
+    "on_addWordPushButton_clicked"
 };
 #undef QT_MOC_LITERAL
 } // unnamed namespace
@@ -55,7 +58,7 @@ Q_CONSTINIT static const uint qt_meta_data_AdminDialog[] = {
       10,       // revision
        0,       // classname
        0,    0, // classinfo
-       1,   14, // methods
+       2,   14, // methods
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
@@ -63,10 +66,12 @@ Q_CONSTINIT static const uint qt_meta_data_AdminDialog[] = {
        0,       // signalCount
 
  // slots: name, argc, parameters, tag, flags, initial metatype offsets
-       1,    1,   20,    2, 0x08,    1 /* Private */,
+       1,    1,   26,    2, 0x08,    1 /* Private */,
+       4,    0,   29,    2, 0x08,    3 /* Private */,
 
  // slots: parameters
     QMetaType::Void, QMetaType::Int,    3,
+    QMetaType::Void,
 
        0        // eod
 };
@@ -82,7 +87,9 @@ Q_CONSTINIT const QMetaObject AdminDialog::staticMetaObject = { {
         QtPrivate::TypeAndForceComplete<AdminDialog, std::true_type>,
         // method 'on_userMenuComboBox_activated'
         QtPrivate::TypeAndForceComplete<void, std::false_type>,
-        QtPrivate::TypeAndForceComplete<int, std::false_type>
+        QtPrivate::TypeAndForceComplete<int, std::false_type>,
+        // method 'on_addWordPushButton_clicked'
+        QtPrivate::TypeAndForceComplete<void, std::false_type>
     >,
     nullptr
 } };
@@ -94,6 +101,7 @@ void AdminDialog::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id,
         (void)_t;
         switch (_id) {
         case 0: _t->on_userMenuComboBox_activated((*reinterpret_cast< std::add_pointer_t<int>>(_a[1]))); break;
+        case 1: _t->on_addWordPushButton_clicked(); break;
         default: ;
         }
     }
@@ -118,13 +126,13 @@ int AdminDialog::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 1)
+        if (_id < 2)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 1;
+        _id -= 2;
     } else if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 1)
+        if (_id < 2)
             *reinterpret_cast<QMetaType *>(_a[0]) = QMetaType();
-        _id -= 1;
+        _id -= 2;
     }
     return _id;
 }

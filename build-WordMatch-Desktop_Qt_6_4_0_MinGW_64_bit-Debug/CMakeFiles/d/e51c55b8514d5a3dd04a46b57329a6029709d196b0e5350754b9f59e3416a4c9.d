@@ -107,6 +107,11 @@ WordMatch_autogen/timestamp: \
   C:/Qt/6.4.0/mingw_64/include/QtGui/qtransform.h \
   C:/Qt/6.4.0/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.4.0/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.4.0/mingw_64/include/QtSql/QSqlDatabase \
+  C:/Qt/6.4.0/mingw_64/include/QtSql/qsqldatabase.h \
+  C:/Qt/6.4.0/mingw_64/include/QtSql/qtsql-config.h \
+  C:/Qt/6.4.0/mingw_64/include/QtSql/qtsqlexports.h \
+  C:/Qt/6.4.0/mingw_64/include/QtSql/qtsqlglobal.h \
   C:/Qt/6.4.0/mingw_64/include/QtWidgets/QDialog \
   C:/Qt/6.4.0/mingw_64/include/QtWidgets/QMainWindow \
   C:/Qt/6.4.0/mingw_64/include/QtWidgets/qdialog.h \
@@ -246,6 +251,27 @@ WordMatch_autogen/timestamp: \
   C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-relwithdebinfo.cmake \
   C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake \
   C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginAdditionalTargetInfo.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginConfig.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginTargets-relwithdebinfo.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6QODBCDriverPluginTargets.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginAdditionalTargetInfo.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginConfig.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginTargets-relwithdebinfo.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6QPSQLDriverPluginTargets.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginAdditionalTargetInfo.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginConfig.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginTargets-relwithdebinfo.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6QSQLiteDriverPluginTargets.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlAdditionalTargetInfo.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlConfig.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlConfigVersion.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlConfigVersionImpl.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlDependencies.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlPlugins.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlTargets-relwithdebinfo.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlTargets.cmake \
+  C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlVersionlessTargets.cmake \
   C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginAdditionalTargetInfo.cmake \
   C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginConfig.cmake \
   C:/Qt/6.4.0/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets-relwithdebinfo.cmake \
@@ -522,19 +548,21 @@ WordMatch_autogen/timestamp: \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h \
   C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/CMakeLists.txt \
+  C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/Resources/Database.qrc \
   C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/Resources/Images/Images.qrc \
+  C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/addworddialog.cpp \
+  C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/addworddialog.h \
   C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/admindialog.cpp \
   C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/admindialog.h \
   C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/main.cpp \
   C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/mainwindow.cpp \
   C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/mainwindow.h \
-  C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/secondwindow.cpp \
   C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/secondwindow.h \
   CMakeFiles/3.23.2/CMakeCXXCompiler.cmake \
   CMakeFiles/3.23.2/CMakeRCCompiler.cmake \
   CMakeFiles/3.23.2/CMakeSystem.cmake \
   WordMatch_autogen/moc_predefs.h \
+  C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/addworddialog.ui \
   C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/admindialog.ui \
   C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/mainwindow.ui \
-  C:/Users/mikki/OneDrive\ -\ UP\ Education/Desktop/Assignments/CS106/Assignment\ 2\ -\ Implementation/WordMatch/WordMatch/secondwindow.ui \
   C:/Qt/Tools/CMake_64/bin/cmake.exe

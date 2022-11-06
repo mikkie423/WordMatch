@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch",
+	"CMAKE_SOURCE_DIR" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch",
+	"INCLUDE_DIR" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/WordMatch_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/WordMatch_autogen.dir/AutoRcc_Database_S5YYZ2ZCNV_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Database" ],
+	"OUTPUT_CHECKSUM" : "S5YYZ2ZCNV",
+	"OUTPUT_NAME" : "qrc_Database.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/build-WordMatch-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/WordMatch_autogen.dir/AutoRcc_Database_S5YYZ2ZCNV_Used.txt",
+	"SOURCE" : "C:/Users/mikki/OneDrive - UP Education/Desktop/Assignments/CS106/Assignment 2 - Implementation/WordMatch/WordMatch/Resources/Database.qrc",
+	"VERBOSITY" : 0
+}

@@ -2,7 +2,6 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-//#include "secondform.h" // needed for second form stored on heap
 #include "secondwindow.h"
 #include "admindialog.h"
 
@@ -25,7 +24,6 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
-   // SecondForm *secForm; // form stored on heap
     SecondWindow *secWin;
     AdminDialog *adminDialog;
 };
